@@ -1,6 +1,7 @@
 >## Sobre
 Projeto desenvolvido durante a Semana Spring React na [DevSuperior](https://github.com/devsuperior). 
 
+Disponível em: https://dsmeta-bryan.netlify.app/
 <br/>
 
 >## Ferramentas
